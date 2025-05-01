@@ -11,6 +11,7 @@ X0. Y0. Z0.; 	(Position at 0 for all axes - set in work offsets)
 G43; H01 		(Use Tool Offset #1)
 G91; 			(Change to incremental positioning)
 Z0.15; 			(Move to Z position just above work)
+(END Startup Process)
 
 (Move to origin of Shape 1 and drop)
 X2.5 Y3.;

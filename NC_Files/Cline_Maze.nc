@@ -6,7 +6,7 @@ T1 M06 	 		(Select tool)
 G54 			(Use Work Offset G54)		
 G90 G17 		(Safe Startup Line: Absolute Programming and Set the active plane as XY)
 G00 X0. Y0.  	(Rapid Movement to 0 X,Yand Z axes in work offset)
-G43 H01 Z1.0 	(Use Tool Offset #1)
+G43 H01 Z1.0 	(Use Tool Offset #1 - Set the pen 1 inch above paper)
 (END Startup Process)
 
 (GO TO THE STARTING POINT AND DROP THE PEN)

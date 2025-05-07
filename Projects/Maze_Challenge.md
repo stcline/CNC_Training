@@ -1,9 +1,9 @@
-## PLTW IED CNC Maze Coordinates Assignment  
+## PLTW IED CNC Maze Coordinates Assignment :alien:
 **Objective:** Demonstrate understanding of G90 (absolute) and G91 (incremental) coordinate systems by solving a maze with both methods.  
 
 ---
 
-### Part 1: Maze Design  
+### Part 1: Maze Design :pencil:
 1. **Draw Your Maze**  
    - Use **1/4-inch grid paper** (minimum 20x20 grid).  
    - Label **START** (bottom-left corner: 0,0) and **END** (top-right corner: 20,20).  
@@ -12,7 +12,7 @@
 
 ---
 
-### Part 2: G90 Absolute Coordinates Solution  
+### Part 2: G90 Absolute Coordinates Solution :triangular_ruler:
 - Trace the shortest path from START to END using **absolute coordinates** (G90).  
 - List coordinate pairs in order (e.g., `(0,0) → (0,5) → (3,5) → ... → (20,20)`).  
 - Add **direction annotations** (N/S/E/W) between points.  
@@ -24,7 +24,7 @@
 
 ---
 
-### Part 3: G91 Incremental Coordinates Solution  
+### Part 3: G91 Incremental Coordinates Solution :triangular_ruler:
 - Solve the **same maze** using **incremental coordinates** (G91).  
 - Start at `(0,0)` and describe movements relative to the previous position.  
 - Example:  
@@ -36,14 +36,14 @@
 
 ---
 
-### Submission Requirements  
+### Submission Requirements :notebook:
 1. **Graph Paper Maze** (clearly labeled).  
 2. **Two Coordinate Lists** (G90 and G91) on separate sheets or tables.  
 3. **Short Reflection** (3–5 sentences): Explain how G90/G91 affect the way you plan toolpaths.  
 
 ---
 
-### Grading Rubric  
+### Grading Rubric :sparkles:
 | Criteria               | Points |                                                                           |
 |------------------------|--------|---------------------------------------------------------------------------|  
 | Maze complexity        | 2      | Must meet the requirements above                                          |

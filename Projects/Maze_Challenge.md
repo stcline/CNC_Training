@@ -55,7 +55,7 @@
 ---
 
 ### Next Steps :robot:
-1. Make a copy of the two template files for G90 and G91 Programming.
+1. Make a copy of the two template files for [G90](https://github.com/stcline/CNC_Training/blob/main/NC_Files/MAZE_TEMPLATE-G90.nc) and [G91](https://github.com/stcline/CNC_Training/blob/main/NC_Files/MAZE_TEMPLATE-G91.nc) Programming.
 2. Put your coordinate pairs in those files.
 3. Set your work offsets on the machine.
 4. Run the Maze!

@@ -1,4 +1,4 @@
-# Lynwood HS PLTE IED: HAAS Desktop Mill Training
+# Lynwood HS PLTW IED: HAAS Desktop Mill Training
 
 Welcome to the training module repository for students in Mr. Cline’s PLTE IED class at Lynwood High School.
 

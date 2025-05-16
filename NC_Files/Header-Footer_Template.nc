@@ -14,6 +14,6 @@ G00 X0. Y0. Z2. 	(Rapid Movement to 0 X,Y in work offset above part)
 (END Startup Process)
 
 (End Sequence)
-G00 G53 Z0.0	(Raise the pen) 
+G00 G53 Z0.0	(Raise the tool to machine zero) 
 M30 			(End Program)
 %

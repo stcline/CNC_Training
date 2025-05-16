@@ -10,7 +10,7 @@ G55 			(Use Work Offset G55)
 G90		 		(Absolute Programming)
 G94				(Use inches per minute)
 M03 S1500		(Clockwise and Spindle speed in RPM)
-G00 X0. Y0.  	(Rapid Movement to 0 X,Yand Z axes in work offset)
+G00 X0. Y0. Z2. 	(Rapid Movement to 0 X,Y in work offset above part)
 (END Startup Process)
 
 (End Sequence)
